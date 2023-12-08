@@ -1,0 +1,13 @@
+time fasterq-dump --split-3 -e 24 SRR9264381 -p
+time fasterq-dump --split-3 -e 24 SRR9264382 -p
+time fasterq-dump --split-3 -e 24 SRR9264383 -p
+time fasterq-dump --split-3 -e 24 SRR9264384 -p
+time fasterq-dump --split-3 -e 24 SRR9264385 -p
+time fasterq-dump --split-3 -e 24 SRR9264386 -p
+time fasterq-dump --split-3 -e 24 SRR9264387 -p
+time fasterq-dump --split-3 -e 24 SRR9264388 -p
+time fasterq-dump --split-3 -e 24 SRR9264389 -p
+time fasterq-dump --split-3 -e 24 SRR9264390 -p
+time fasterq-dump --split-3 -e 24 SRR9264391 -p
+time fasterq-dump --split-3 -e 24 SRR9264392 -p
+time fasterq-dump --split-3 -e 24 SRR9264393 -p
